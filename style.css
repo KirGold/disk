@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.box{
+    background-color: rgb(66, 33, 97);
+    height: 300vh;
+    width: 100%;
+}
+.img{
+    width: 30%;
+    margin-top: 100px;
+    padding: 50px;
+    transition: transform 0.2s;
+}
